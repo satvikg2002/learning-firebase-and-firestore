@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 61f8cc1bac104962ecda2580e7557639d165d88b Satvik <satvik.noida@gmail.com> 1688551230 +0530	commit (initial): Initialize project using Create React App
-61f8cc1bac104962ecda2580e7557639d165d88b 518fb3521006c99d65955d0ae6dd41cf2a8c06b0 Satvik <satvik.noida@gmail.com> 1688555206 +0530	commit: added hotels collection from firestore
-518fb3521006c99d65955d0ae6dd41cf2a8c06b0 9dca1f65297de10e1b791d828970e1d1506b3940 Satvik <satvik.noida@gmail.com> 1689150568 +0530	commit: updated files
-9dca1f65297de10e1b791d828970e1d1506b3940 cc047078c56413966c5e22a5c3573c78ccb6291c Satvik <satvik.noida@gmail.com> 1689150884 +0530	commit: file reorganization
